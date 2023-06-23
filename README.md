@@ -1,5 +1,6 @@
 
-# WP-CronMinder
+# WP-CronSync
+
 
 
 WordPress cron is a powerful feature that allows you to schedule automated tasks within your WordPress website. In the context of posting articles from XML files, you can utilize WordPress cron to regularly import XML data and automatically create new posts based on the content of those files.
